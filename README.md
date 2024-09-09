@@ -5,8 +5,6 @@
 This R script was developed as a project for an exam on Introduction to Machine Learning and Evolutionary Robotics. 
 It's objective is to extract data from a collection of letters from Italo Svevo and use it to provide meaningful information. 
 
-<br/>
-
 ## Overview
 In order to accomplish the goals of the project, topic modelling and sentiment analysis techniques were employed. The data used is shared in this repository.
 Details on how the data was processed are illustrated in the [project report](https://github.com/AlessandroViol/Svevo/blob/main/Progetto%20ML%20Alessandro%20Viol.pdf).
